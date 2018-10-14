@@ -4,6 +4,7 @@ Small pieces of standalone ANSI C code that you can use in your programs simply 
 
 ## Contents
 
+* aes.h: Advanced Encryption Standard (AES) algorithm
 * base64.h: base 64 encoding
 * sha256.h: Secure Hash Algorithm 256 (SHA-256)
 
