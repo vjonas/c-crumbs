@@ -5,6 +5,7 @@ Small pieces of standalone ANSI C code that you can use in your programs simply 
 ## Contents
 
 * aes.h: Advanced Encryption Standard (AES) algorithm
+* aes-ccm.h: AES Counter CBC MAC (AES-CCM) algorithm
 * aes-gcm.h: AES Galois/Counter Mode (AES-GCM) algorithm
 * aes-mmo.h: AES Matyas-Meyer-Oseas (AES-MMO) hash function
 * base64.h: base 64 encoding
