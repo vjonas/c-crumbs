@@ -1,3 +1,7 @@
+# How to run
+Compile the code on macos: `gcc -o main main.c`
+Run the compiled code: `./main`
+
 # c-crumbs
 
 Small pieces of standalone ANSI C code that you can use in your programs simply by grabbing the desired .h file and #including it from your C or C++ code, inspired by Sean Barrett's [stb](https://github.com/nothings/stb) libraries.
